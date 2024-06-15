@@ -8,12 +8,13 @@
 ## Solution
 
 
-Method 1 (Random Approach):
 
-![Method 1 Flowchart](https://github.com/NoobCoder6969/Subset-Selection-Problem/raw/main/Subset%20Selection%20problem%20Method%201.png)
+## Method 1 (Random Approach):
+
+<img src="https://github.com/NoobCoder6969/Subset-Selection-Problem/raw/main/Subset%20Selection%20problem%20Method%201.png" alt="Method 1 Flowchart" width="50%">
 
 ---
 
-Method 2 (Using Combinations from Itertools):
+## Method 2 (Using Combinations from Itertools):
 
-![Method 2 Flowchart](https://github.com/NoobCoder6969/Subset-Selection-Problem/raw/main/Subset%20Selection%20problem%20Method%202.png)
+<img src="https://github.com/NoobCoder6969/Subset-Selection-Problem/raw/main/Subset%20Selection%20problem%20Method%202.png" alt="Method 2 Flowchart" width="50%">
